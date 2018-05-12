@@ -29,6 +29,8 @@ description: "A Doll's House (Bokmål: Et dukkehjem; also translated as A Doll H
   . Egil Törnqvist says of the alternative title: \"Rather than being superior to\
   \ the traditional rendering, it simply sounds more idiomatic to Americans.\"\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15492#A-Doll-s-House
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2005-03-29'
 gutenberg_type: Text
